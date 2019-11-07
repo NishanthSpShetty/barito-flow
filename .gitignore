@@ -1,6 +1,7 @@
 barito-flow
 
 
+
 # Created by https://www.gitignore.io/api/go,vim,macos
 
 ### Go ###
@@ -68,5 +69,6 @@ tags
 # Persistent undo
 [._]*.un~
 
+.vscode
 
 # End of https://www.gitignore.io/api/go,vim,macos
